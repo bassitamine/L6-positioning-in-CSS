@@ -1,0 +1,31 @@
+.div1{
+    background-color: midnightblue;
+    height: 50px;
+    margin-bottom: 10px;
+    position: fixed;
+    width: 200%;
+    top: 300px;
+    opacity: 0.9;
+}
+.div2{
+    background-color: chocolate;
+    height: 50px;
+    margin-bottom: 10px;
+    position: absolute;
+    width: 100%;
+    top: 200px;
+}
+.div3{
+    background-color: darksalmon;
+    height: 50px;
+    position:  relative;
+    left: 200px;
+    top: 30px;
+}
+p{
+    position: sticky;
+   top: 0; 
+}
+body{
+    height: 200vh;
+}
